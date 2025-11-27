@@ -1,0 +1,33 @@
+# Ignore dataset files
+*.csv
+*.xlsx
+*.parquet
+*.json
+
+# Ignore dataset folder if you create one later
+data/
+Datasets/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# DO NOT ignore:
+# app.py
+# Images/
+# PDF dashboard
+# Jupyter notebook

@@ -1,0 +1,6 @@
+textblob
+VADER
+pandas 
+numpy
+matplotlib
+seaborn
