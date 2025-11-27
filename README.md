@@ -84,6 +84,12 @@ Shows score distribution for products with **500+ reviews**, helping identify tr
 ### 💬 Sentiment Polarity Analysis  
 Using **TextBlob**, sentiment was classified into:
 
+<img width="868" height="468" alt="Sentiment polarity_distribution" src="https://github.com/user-attachments/assets/b9f4e6bc-dcd4-41a0-a233-6ebd70d69f0f" />
+
+<img width="508" height="502" alt="Sentiment Breakddown_positive_negative_neutral" src="https://github.com/user-attachments/assets/638262bb-2d3d-4309-bfd5-ce3cbf7904b3" />
+
+
+
 - **Positive**  
 - **Negative**  
 - **Neutral**
