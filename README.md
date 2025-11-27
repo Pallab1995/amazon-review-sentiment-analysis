@@ -48,25 +48,30 @@ Dataset is included in the project (`Reviews.csv`).
 - Non-frequent users show **mixed and scattered ratings**  
 
 📷 **Frequent Users Score Distribution**  
+
 <img width="580" height="448" alt="Frequent Users Score" src="https://github.com/user-attachments/assets/502bd55e-570c-4e92-9e27-9aecd20b229f" />
 
 
-📷 **Non-Frequent Users Score Distribution**  
- Images/Not Frequent User Score.png
+📷 **Non-Frequent Users Score Distribution** 
+
+ <img width="598" height="448" alt="Not Frequent User Score" src="https://github.com/user-attachments/assets/e04fa7e5-44ed-4038-84e0-6b4a1eeba5cc" />
+
 
 ---
 
 ### 👥 Top Users by Products Purchased  
 Identifies the **Top 10 most active users** with the highest number of reviewed products.  
 
-📷 `Images/Review of users.png`
+<img width="572" height="570" alt="output" src="https://github.com/user-attachments/assets/7a3a8388-165f-473d-9ce1-6824dc958f8e" />
+
 
 ---
 
 ### 📦 Product vs Score Analysis  
 Shows score distribution for products with **500+ reviews**, helping identify trustworthy items.
 
-📷 `Images/product vs count.png`
+<img width="642" height="432" alt="product vs count" src="https://github.com/user-attachments/assets/d1e782e1-4ab5-417c-92b0-cffa7d11f2c7" />
+
 
 ---
 
@@ -83,7 +88,7 @@ Using **TextBlob**, sentiment was classified into:
 - **Negative**  
 - **Neutral**
 
-📷 `Images/output.png`
+
 
 ---
 
