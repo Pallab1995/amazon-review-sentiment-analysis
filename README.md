@@ -48,10 +48,11 @@ Dataset is included in the project (`Reviews.csv`).
 - Non-frequent users show **mixed and scattered ratings**  
 
 📷 **Frequent Users Score Distribution**  
-`Images/Frequent Users Score.png`
+<img width="580" height="448" alt="Frequent Users Score" src="https://github.com/user-attachments/assets/502bd55e-570c-4e92-9e27-9aecd20b229f" />
+
 
 📷 **Non-Frequent Users Score Distribution**  
-`Images/Not Frequent User Score.png`
+ Images/Not Frequent User Score.png
 
 ---
 
